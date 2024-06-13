@@ -12,3 +12,7 @@ img {
   width: 100px;
   height: 100px;
 }
+
+.image-gray {
+  filter: grayscale(100%);
+}
